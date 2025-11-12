@@ -26,7 +26,7 @@ The classic 2048 game interface with a clean and simple layout.
 
 ---
 
-## Features**
+## Features
 - **Start / Restart Game** — start a new game or reset the current one
 - **Score Tracking** — keep track of your score
 - **Dynamic Game Board** — interactive tiles updating in real time
