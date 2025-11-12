@@ -46,7 +46,9 @@ Follow these steps to get the project running locally:
 
 **Clone the repository:**
   ```git clone https://github.com/DSemeniukV/2048_game.git```
+
 **Install dependencies:**
   ```npm install```
+  
 **Run the project locally:**
   ```npm start```
